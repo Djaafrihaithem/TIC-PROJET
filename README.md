@@ -1,7 +1,7 @@
 # TIC-PROJET
 Grp 47
-Kenaza	Mouataz
+KENAZA Mouataz
 RAHLI	Zineddine
-Djaafri	Haitem
-Saidouni	Djoulene
-Graia	Ramin Mohamed Ryad
+DJAAFRI	Haitem
+SAIDOUNI	Djoulene
+GRAIA Ramin Mohamed Ryad
